@@ -51,6 +51,8 @@ To build an application, use `make` inside of the application's directory.
 
 `make flash` uploads the application to the board using JTAG.
 
+To utilize this code, make flash `send_acc ` on the microbit that is used to tilt and make flash `motobit ` on the microbit used on the car
+
 
 ## Getting print data
 
